@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    min-height: 9vh;
+    font-size: 18px;
+}
+
+:root {
+    --var-cor: #1B412A;
+    --var-cor1: #5CA8BA;
+    --var-cor2: #B3BB99;
+    --var-cor3: #5EB462;
+    --var-cor4: #312f2f;
+    --var-cor5: #423e3e;
+    --var-cor6: #f2f2f2;
+}
+#trem{
+    min-height: 100vh;
+}
+
+
+
+#her{
+   
+    min-width: 80px;
+    max-height: 500vh;
+}
+
+
+
+.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark {
+    background-color: #333333;
+    color: #ffffff;
+  }
